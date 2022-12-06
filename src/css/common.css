@@ -16,3 +16,23 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding-top: 150px ;
+}
+
+
+.timer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 50px 22px;
+  margin-top: 5px;
+  width: 450px;
+  border-radius: 5px;
+  background-color: rgb(176, 247, 247);
+}
+
